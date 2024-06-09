@@ -1,0 +1,5 @@
+Scripts/
+Lib/
+__pycache__/
+DeleteTable.py
+pyvenv.cfg
